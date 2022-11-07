@@ -1,0 +1,11 @@
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\bin\Debug\AuthenticatorDataTier.dll
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\bin\Debug\AuthenticatorDataTier.pdb
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\bin\Debug\DataTypes.dll
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\bin\Debug\DataTypes.pdb
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\obj\Debug\AuthenticatorDataTier.csproj.AssemblyReference.cache
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\obj\Debug\AuthenticatorDataTier.csproj.CoreCompileInputs.cache
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\obj\Debug\AuthenticatorDataTier.csproj.CopyComplete
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\obj\Debug\AuthenticatorDataTier.dll
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\obj\Debug\AuthenticatorDataTier.pdb
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gameb\source\repos\Assignment1\AuthenticatorDataTier\bin\Debug\Newtonsoft.Json.xml
