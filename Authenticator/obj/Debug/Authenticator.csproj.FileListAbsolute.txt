@@ -1,0 +1,15 @@
+C:\Users\gameb\source\repos\Assignment1\Authenticator\obj\Debug\Authenticator.csproj.AssemblyReference.cache
+C:\Users\gameb\source\repos\Assignment1\Authenticator\obj\Debug\Authenticator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gameb\source\repos\Assignment1\Authenticator\obj\Debug\Authenticator.csproj.CoreCompileInputs.cache
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\Authenticator.exe.config
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\Authenticator.exe
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\Authenticator.pdb
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\AuthenticatorDataTier.dll
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\DataTypes.dll
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\AuthenticatorDataTier.pdb
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\DataTypes.pdb
+C:\Users\gameb\source\repos\Assignment1\Authenticator\obj\Debug\Authenticator.csproj.CopyComplete
+C:\Users\gameb\source\repos\Assignment1\Authenticator\obj\Debug\Authenticator.exe
+C:\Users\gameb\source\repos\Assignment1\Authenticator\obj\Debug\Authenticator.pdb
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gameb\source\repos\Assignment1\Authenticator\bin\Debug\Newtonsoft.Json.xml
