@@ -1,0 +1,5 @@
+{"name":"e","description":"e","endpoint":"e","operands":"e","type":"e"}
+{"name":"ADDTwoNumbers","description":"Adding Two Numbers","endpoint":"http://localhost:60082/api/calculator/addTwoNumbers","operands":"2","type":"integer"}
+{"name":"ADDThreeNumbers","description":"Adding Three Numbers","endpoint":"http://localhost:60082/api/calculator/addThreeNumbers","operands":"3","type":"integer"}
+{"name":"MulTwoNumbers","description":"Multiply Two Numbers","endpoint":"http://localhost:60082/api/calculator/MulTwoNumbers","operands":"2","type":"integer"}
+{"name":"MulThreeNumbers","description":"Multiply Three Numbers","endpoint":"http://localhost:60082/api/calculator/MulThreeNumbers","operands":"3","type":"integer"}
